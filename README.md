@@ -1,4 +1,4 @@
-📊 Digital Ad Performance Analysis
+📊 ## Digital Ad Performance Analysis
 This project was created to analyze the performance of digital advertising campaigns from Facebook Ads and Google Ads. The following steps were carried out:
 
 Data extraction using SQL (PostgreSQL)
@@ -7,7 +7,7 @@ A/B testing analysis using Python and Excel
 
 Visualization with Tableau
 
-🚀 Technologies Used
+🚀 ## Technologies Used
 SQL (PostgreSQL)
 
 Python (pandas, matplotlib)
