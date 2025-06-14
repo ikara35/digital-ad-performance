@@ -1,23 +1,26 @@
-## Digital Ad Performance Analysis
+📊 Digital Ad Performance Analysis
+This project was created to analyze the performance of digital advertising campaigns from Facebook Ads and Google Ads. The following steps were carried out:
 
-Bu proje, dijital reklam Facebook Ad ve Google Ad kampanyalarının performansını analiz etmek için oluşturulmuştur. 
-Aşağıdaki adımlar uygulanmıştır:
+Data extraction using SQL (PostgreSQL)
 
-- SQL (PostgreSQL) ile veri çekme
-- Python ve Excel ile A/B test analizi
-- Tableau ile görselleştirme
+A/B testing analysis using Python and Excel
 
- ## Kullanılan Teknolojiler
+Visualization with Tableau
 
-- SQL (PostgreSQL)
-- Python (pandas, matplotlib)
-- Tableau
-- Excel
+🚀 Technologies Used
+SQL (PostgreSQL)
 
-## Dosya Yapısı
+Python (pandas, matplotlib)
 
-- `data/`: Örnek veri dosyaları
-- `analysis/`: Analiz kodları ve A/B test sonuçları
-- `sql/`: Veri çekmek için kullanılan sorgular
-- `dashboard/`: Tableau dashboard dosyası
+Tableau
+
+Excel
+
+
+## Project Structure
+data/         → Sample data files  
+analysis/     → Analysis scripts and A/B test results  
+sql/          → SQL queries used for data extraction  
+dashboard/    → Tableau dashboard files  
+
 
